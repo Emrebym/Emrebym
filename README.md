@@ -21,42 +21,41 @@ const emre = {
 
 ### ⚡ What I Work With
 
-<table>
-<tr>
-<td align="center" width="25%">
+<div align="center">
 
-**Frontend**
+#### 🖥️ Frontend
+<a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+<a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,threejs&perline=4" /><br>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,vite&perline=4" />
+#### ⚙️ Backend
+<a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
 
-</td>
-<td align="center" width="25%">
+#### 📱 Mobile
+<a href="#"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /></a>
 
-**Backend**
+#### 🗄️ Data & DevOps
+<a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
 
-<img src="https://skillicons.dev/icons?i=php,symfony,laravel&perline=3" /><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express&perline=3" />
-
-</td>
-<td align="center" width="25%">
-
-**Mobile**
-
-<img src="https://skillicons.dev/icons?i=react,flutter,kotlin&perline=3" /><br>
-<sub>React Native · Flutter · Kotlin</sub>
-
-</td>
-<td align="center" width="25%">
-
-**DevOps & Data**
-
-<img src="https://skillicons.dev/icons?i=docker,mysql,redis&perline=3" /><br>
-<img src="https://skillicons.dev/icons?i=elasticsearch,git,linux&perline=3" />
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -128,10 +127,6 @@ Weather forecast application<br>
 ---
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emrebym&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e8a849&text_color=c9d1d9&langs_count=6" height="200" />
-
-<br>
 
 <img src="https://komarev.com/ghpvc/?username=Emrebym&style=flat-square&color=e8a849&label=Profile+Views" />
 
