@@ -7,14 +7,24 @@
 
 </div>
 
-```javascript
-const emre = {
-    location: "Istanbul, Turkey 🇹🇷",
-    roles: ["Software Developer", "Frontend Engineer", "E-Commerce Developer"],
-    currently: "Building web & mobile apps, crafting e-commerce solutions",
-    experience: "2+ years in scalable web apps & interactive product configurators",
-    fun: "I automated my coffee ordering with a Telegram bot ☕🤖"
-};
+```yaml
+name: Emre Bayram
+located_in: Istanbul, Turkey 🇹🇷
+current_role: Software Developer @ HMC International Trading
+
+fields_of_interest:
+  - Web Development
+  - E-Commerce Solutions
+  - Mobile Development
+  - 2D/3D Product Configurators
+  
+currently_learning:
+  - System Design
+  - Cloud Architecture
+  - Advanced React Patterns
+
+experience: 2+ years building scalable web & e-commerce applications
+education: B.Sc. Management Information Systems — Anadolu University
 ```
 
 ---
