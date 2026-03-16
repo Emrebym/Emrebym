@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Emre%20Bayram&fontSize=42&fontColor=e8a849&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Istanbul%2C%20Turkey&descSize=16&descColor=8892b0&descAlignY=55&animation=fadeIn" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-bayram-4941451a7/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-e8a849?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://emrebayram.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-e8a849?style=for-the-badge&logo=safari&logoColor=white)](https://emrebayram.dev)
 
 </div>
 
@@ -27,30 +27,32 @@ const emre = {
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,threejs,html,css,tailwind&perline=4" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,threejs&perline=4" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,vite&perline=4" />
 
 </td>
 <td align="center" width="25%">
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=php,symfony,laravel,nodejs,express&perline=3" />
+<img src="https://skillicons.dev/icons?i=php,symfony,laravel&perline=3" /><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express&perline=3" />
 
 </td>
 <td align="center" width="25%">
 
 **Mobile**
 
-<img src="https://skillicons.dev/icons?i=react,flutter,kotlin&perline=3" />
-
-<sub>React Native · Flutter</sub>
+<img src="https://skillicons.dev/icons?i=react,flutter,kotlin&perline=3" /><br>
+<sub>React Native · Flutter · Kotlin</sub>
 
 </td>
 <td align="center" width="25%">
 
 **DevOps & Data**
 
-<img src="https://skillicons.dev/icons?i=docker,mysql,redis,elasticsearch,git,linux&perline=3" />
+<img src="https://skillicons.dev/icons?i=docker,mysql,redis&perline=3" /><br>
+<img src="https://skillicons.dev/icons?i=elasticsearch,git,linux&perline=3" />
 
 </td>
 </tr>
@@ -113,23 +115,11 @@ Weather forecast application<br>
 
 ---
 
-### 📊 Activity
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Emrebym&bg_color=0d1117&color=e8a849&line=5eb4c9&point=e8a849&area=true&area_color=1a1a2e&hide_border=true" width="95%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emrebym&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e8a849&text_color=c9d1d9&langs_count=6" height="200" />
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emrebym&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e8a849&text_color=c9d1d9&langs_count=8" height="160" />
-
-</div>
-
----
-
-<div align="center">
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Emrebym&style=flat-square&color=e8a849&label=Profile+Views" />
 
