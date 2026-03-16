@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Emre%20Bayram&fontSize=42&fontColor=e8a849&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Istanbul%2C%20Turkey&descSize=16&descColor=8892b0&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Emre%20Bayram&fontSize=42&fontColor=e8a849&fontAlignY=35&desc=Software%20Developer%20%7C%20Istanbul%2C%20Turkey&descSize=16&descColor=8892b0&descAlignY=55&animation=fadeIn" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-bayram-4941451a7/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-e8a849?style=for-the-badge&logo=safari&logoColor=white)](https://emrebayram.dev)
+[![CV](https://img.shields.io/badge/Download_CV-e8a849?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/Emrebym/Emrebym/raw/main/Emre_Bayram_CV.pdf)
 
 </div>
 
 ```javascript
 const emre = {
     location: "Istanbul, Turkey 🇹🇷",
-    roles: ["Full-Stack Developer", "Frontend Engineer", "E-Commerce Developer"],
+    roles: ["Software Developer", "Frontend Engineer", "E-Commerce Developer"],
     currently: "Building web & mobile apps, crafting e-commerce solutions",
-    learning: "System design, advanced React patterns, mobile development",
+    experience: "2+ years in scalable web apps & interactive product configurators",
     fun: "I automated my coffee ordering with a Telegram bot ☕🤖"
 };
 ```
@@ -115,6 +115,18 @@ Weather forecast application<br>
 
 ---
 
+### 💼 Experience
+
+```
+🏢 HMC International Trading          Software Developer         Sep 2024 - Present
+   → PHP/Symfony e-commerce on Shopware 6, 2D/3D configurators with Three.js
+
+🏢 GREYDER                            System & Network Specialist Jan 2023 - Sep 2023
+   → Enterprise network infrastructure, cybersecurity, firewall management
+```
+
+---
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emrebym&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e8a849&text_color=c9d1d9&langs_count=6" height="200" />
@@ -126,7 +138,7 @@ Weather forecast application<br>
 <br><br>
 
 **🎓 Management Information Systems** · Anadolu University<br>
-**💼 Frontend / Full-Stack Developer** · HMC International Trading
+**💼 Software Developer** · HMC International Trading
 
 <br>
 
